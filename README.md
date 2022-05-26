@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="materialUI" align="center"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styledcomponents" align="center"/>
 </div><br/>
+
 ### Contato
 
 Email: vitorschmidt1@gmail.com
