@@ -8,12 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorschmidt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias 
-<div style="display: inline_block"><br/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" alt="javascript" align="center"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" align="center"/>
-  
-
-</div><br/>
+<div style="display: inline_block;">
+  Javascript | Vue | C# | .Net | MYSQL | Postgres | React | Docker 
+</div>
 
 ### Contato
 
